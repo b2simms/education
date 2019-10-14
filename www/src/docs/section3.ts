@@ -36,7 +36,7 @@ export const section3: Item[] = [
         selected: false,
         content: html`<p>Although it has already been mentioned several times throughout this document, the importance of the Annual School Performance Report must be highlighted.&nbsp;</p>
         <ul>
-        <li>The Annual School Performance Report is a high-level document that schools would submit to the district in January of each year (See <a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/School%20Performance%20Report%20July%2031%2C%202019.docx?Web=1">Appendix F</a>).</li>
+        <li>The Annual School Performance Report is a high-level document that schools would submit to the district in January of each year (See <a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/Annual%20School%20Performance%20Report%20FINAL.docx?Web=1">Appendix F</a>).</li>
         <li>This report will identify overarching school goals and indicate progress toward these goals.</li>
         <li>District will collate this data and author a similar high-level report to be shared with provincial representatives.</li>
         <li>This is a mechanism by which schools and districts will be able to measure progress.</li>
