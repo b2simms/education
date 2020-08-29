@@ -1,6 +1,6 @@
 {
   "entrypoint": "index.html",
-  "shell": "src/main-element.js",
+  "shell": "src/site-one/main-element.js",
   "sources": [
     "manifest/**/*"
   ],

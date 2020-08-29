@@ -2,7 +2,7 @@
 // Import LitElement base class and html helper function
 import { html, LitElement } from "lit-element";
 import "./tabs-section";
-import { sharedStyles } from "./style/shared-styles";
+import { sharedStyles } from "../style/shared-styles";
 import { Item } from "./types";
 
 export class DomainSection extends LitElement {
@@ -13,7 +13,7 @@ export class DomainSection extends LitElement {
 
 	// properties getter
 	static get properties() {
-		return { 
+		return {
 			color: { type: String },
 			colorFaded: { type: String },
 			tabList: { type: Array },
@@ -30,7 +30,7 @@ export class DomainSection extends LitElement {
 		<style>
 			${sharedStyles}
 
-			:host { 
+			:host {
 				display: block;
 				font-family: sans-serif;
 			}
@@ -39,21 +39,21 @@ export class DomainSection extends LitElement {
 			.domain {
 				margin: 1em 7em;
 			}
-			
+
 			.domain-header {
 				margin: 1em 0 0 0;
 				padding: 0 0;
 
-				background-color: ${this.colorFaded}; 
+				background-color: ${this.colorFaded};
 
 				text-align: center;
 				border: 1px solid ${this.colorFaded};
-				border-top-left-radius: 16px; 
+				border-top-left-radius: 16px;
 				border-top-right-radius: 16px;
 
 				font-weight: bold;
 				font-size: 26px;
-			
+
 				height: auto;
 				position: relative;
 			}

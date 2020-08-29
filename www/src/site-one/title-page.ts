@@ -1,7 +1,7 @@
 
 // Import LitElement base class and html helper function
 import { html, LitElement } from "lit-element";
-import { sharedStyles } from "./style/shared-styles";
+import { sharedStyles } from "../style/shared-styles";
 
 export class TitlePage extends LitElement {
 
@@ -15,7 +15,7 @@ export class TitlePage extends LitElement {
 		<style>
 			${sharedStyles}
 
-			:host { 
+			:host {
 				display: block;
 				font-family: sans-serif;
 
@@ -130,24 +130,22 @@ export class TitlePage extends LitElement {
 		<div class="container">
 			<div class="header">
 				<div class="inner-header">
-					<h1>New Brunswick Provincial Improvement Framework:</h1>
-					<h2>A Collaborative Process for Schools, Districts and the Province</h2>
+					<h1>New Brunswick School Improvement Indicators</h1>
+					<h2>With Explanatory Notes</h2>
 				</div>
 			</div>
-			<img class="box" src="./manifest/title-page.jpg"/>
+			<img class="box" src="./manifest/hands-in-circle.jpg"/>
 
 			<div class="overlay">
 				Department of Education & Early Childhood Development
 				<br>
-				10-Year Education Implementation Planning Team
-				<br>
-				DRAFT as of June 20, 2019
+				Updated August 28, 2020
 			</div>
 
 		</div>
 		`;
 	}
-	
+
 }
 // Register the element with the browser
 customElements.define("title-page", TitlePage);

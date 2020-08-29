@@ -62,7 +62,7 @@ export const linksObj = [
 	},
 	{
 		key: "LINK_16",
-		href: `<a href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/Annual%20School%20Performance%20Report%20FINAL.docx?Web=1" target="_blank"><strong>Appendix F</strong>: Annual School Performance Report Template</a>`,
+		href: `<a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/Annual%20School%20Performance%20Report%20FINAL.docx?Web=1"><strong>Appendix F</strong>: Annual School Performance Report Template</a>`,
 	},
 	{
 		key: "LINK_17",

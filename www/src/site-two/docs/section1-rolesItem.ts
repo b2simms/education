@@ -1,5 +1,5 @@
 
-import { Item } from "../types";
+import { Item } from "../../common/types";
 import { html } from "lit-html";
 
 export const rolesItem: Item[] = [

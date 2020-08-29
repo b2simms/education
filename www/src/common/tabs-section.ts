@@ -1,7 +1,7 @@
 
 // Import LitElement base class and html helper function
 import { html, LitElement } from "lit-element";
-import { sharedStyles } from "./style/shared-styles";
+import { sharedStyles } from "../style/shared-styles";
 import { Item } from "./types";
 
 export class TabsSection extends LitElement {
@@ -12,12 +12,12 @@ export class TabsSection extends LitElement {
 
 	// properties getter
 	static get properties() {
-		return { 
+		return {
 			list: { type: Array },
 			color: { type: String },
 		};
 	  }
-	  
+
 	/**
 	* Define a template for the new element by implementing LitElement's
 	* `render` function. `render` must return a lit-html TemplateResult.
@@ -28,7 +28,7 @@ export class TabsSection extends LitElement {
 		<style>
 			${sharedStyles}
 
-			:host { 
+			:host {
 				display: block;
 				font-family: sans-serif;
 			}
@@ -98,7 +98,7 @@ export class TabsSection extends LitElement {
 				.tab {
 					padding: 10px;
 				}
-				
+
 				.tab:hover {
 					padding: 10px;
 				}

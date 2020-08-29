@@ -3,9 +3,9 @@
 import { css, html, LitElement } from "lit-element";
 
 import "./title-page";
-import "./accordian-section";
-import "./domain-section";
-import "./menu-section";
+import "../common/accordian-section";
+import "../common/domain-section";
+import "../common/menu-section";
 
 import { overviewList } from "./docs/overview";
 import { section1 } from "./docs/section1";
@@ -13,7 +13,7 @@ import { section2 } from "./docs/section2";
 import { section3 } from "./docs/section3";
 import { section4 } from "./docs/section4";
 
-import { sharedStyles, toggleTheme } from "./style/shared-styles";
+import { sharedStyles, toggleTheme } from "../style/shared-styles";
 
 export class MainElement extends LitElement {
 

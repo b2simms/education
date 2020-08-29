@@ -1,7 +1,7 @@
 
 // Import LitElement base class and html helper function
 import { html, LitElement } from "lit-element";
-import { sharedStyles } from "./style/shared-styles";
+import { sharedStyles } from "../style/shared-styles";
 import { Item } from "./types";
 
 export class AccordianSection extends LitElement {
@@ -13,7 +13,7 @@ export class AccordianSection extends LitElement {
 
 	// properties getter
 	static get properties() {
-		return { 
+		return {
 			list: { type: Array },
 			color: { type: String },
 		};
@@ -29,7 +29,7 @@ export class AccordianSection extends LitElement {
 		<style>
 			${sharedStyles}
 
-			:host { 
+			:host {
 				display: block;
 				font-family: sans-serif;
 			}

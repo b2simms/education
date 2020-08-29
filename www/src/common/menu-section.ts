@@ -1,7 +1,7 @@
 
 // Import LitElement base class and html helper function
 import { html, LitElement, css } from "lit-element";
-import { isLightTheme, sharedStyles } from "./style/shared-styles";
+import { isLightTheme, sharedStyles } from "../style/shared-styles";
 import { Item } from "./types";
 
 export class MenuSection extends LitElement {
@@ -46,7 +46,7 @@ export class MenuSection extends LitElement {
 
 	// properties getter
 	static get properties() {
-		return { 
+		return {
 			list: { type: Array },
 		};
 	}
@@ -55,7 +55,7 @@ export class MenuSection extends LitElement {
 		return [
 		sharedStyles,
 		css`
-		:host { 
+		:host {
 			display: block;
 			font-family: sans-serif;
 		}
@@ -101,7 +101,7 @@ export class MenuSection extends LitElement {
 			background-color: var(--menu-bg-selected);
 			color: var(--menu-color-selected);
 		}
-		
+
 		.theme {
 			position: absolute;
 			display: relative;
@@ -123,8 +123,8 @@ export class MenuSection extends LitElement {
 			border-radius: 50%;
 		}
 		`];
-	} 
-	  
+	}
+
 	/**
 	* Define a template for the new element by implementing LitElement's
 	* `render` function. `render` must return a lit-html TemplateResult.
@@ -134,8 +134,8 @@ export class MenuSection extends LitElement {
 		<div class="container">
 			<div class="nav-section">
 				${this.list.map((tab, index) => {
-					return html`<div class="nav-item 
-						${ index !== (this.list.length - 1) ? "right-area" : ""} 
+					return html`<div class="nav-item
+						${ index !== (this.list.length - 1) ? "right-area" : ""}
 						${ tab.selected ? "nav-item-selected" : ""}"
 							@click=${(e: Event) => this.selectItem(tab.id) }>
 						${tab.name}
