@@ -2,7 +2,8 @@
 export const linksObj = [
 	{
 		key: "LINK_1",
-		href: `<a href="https://collabe.nbed.nb.ca/res/sa/gr/gendocs/New%20Brunswick%20Global%20Competencies%20Approved,%20Feb%202018.pdf" target="_blank">NB Global Competencies</a>`,
+		href: `<a href="https://collabe.nbed.nb.ca/res/sa/gr/gendocs/New%20Brunswick%20Global%20Competencies%20Approved,%20Feb%202018.pdf" 
+		target="_blank">NB Global Competencies</a>`,
 	},
 	{
 		key: "LINK_2",
@@ -10,7 +11,8 @@ export const linksObj = [
 	},
 	{
 		key: "LINK_4",
-		href: `<a href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Inclusion%20Look-fors%20August%2028%2C%202020%20FINAL.docx?Web=1" target="_blank">Inclusion Look-fors</a>`,
+		href: `<a href="https://collabe.nbed.nb.ca/sites/10year/nbsip/_layouts/15/WopiFrame.aspx?sourcedoc=/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Inclusion%20Look-fors%20August%2028,%202020%20FINAL.docx&action=default"
+		 target="_blank">Inclusion Look-fors</a>`,
 	},
 	{
 		key: "LINK_5",
@@ -35,17 +37,6 @@ export const linksObj = [
 		key: "LINK_9",
 		href: `<a href="http://www2.gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/EveryoneAtTheirBest.pdf"
 										 target="_blank">10-year Education Plan</a>`,
-	},
-	{
-		key: "LINK_10",
-		href: `<a href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Inclusion%20Look-fors%20FINAL.docx?Web=1"
-										 target="_blank">Inclusion Look-fors</a>`,
-	},
-	{
-		key: "LINK_12",
-		href: `<a href="http://www.nbta.ca/resources/documents/policy-598.3.pdf"
-										 target="_blank">A Resource Guide for Educators: Anti-Homophobia and
-											Anti-Heterosexism </a>`,
 	},
 	{
 		key: "LINK_16",
@@ -127,11 +118,6 @@ export const linksObj = [
 	{
 		key: "LINK_42",
 		href: `<a href="https://collabe.nbed.nb.ca/res/pl/nbela/Document%20Library/Themes%20in%20Education%20-%20Action%20Research%20by%20Eileen%20Ferrance%20of%20Brown%20University.pdf">Action Research Guide</a>`,
-	},
-	{
-		key: "LINK_43",
-		href: `<a href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Inclusion%20Look-fors%20FINAL.docx?Web=1">
-										Inclusion Look-fors </a>`,
 	},
 	{
 		key: "LINK_44",

@@ -54,7 +54,7 @@ export const linksObj = [
 	},
 	{
 		key: "LINK_14",
-		href: `<a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Inclusion%20Look-fors%20August%2028%2C%202020%20FINAL.docx?Web=1">Inclusion Look-For</a>`,
+		href: `<a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/_layouts/15/WopiFrame.aspx?sourcedoc=/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Inclusion%20Look-fors%20August%2028,%202020%20FINAL.docx&action=default">Inclusion Look-For</a>`,
 	},
 	{
 		key: "LINK_15",
@@ -74,6 +74,6 @@ export const linksObj = [
 	},
 	{
 		key: "LINK_19",
-		href: `<a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Inclusion%20Look-fors%20August%2028%2C%202020%20FINAL.docx?Web=1">Inclusion Look-For</a>`,
+		href: `<a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/_layouts/15/WopiFrame.aspx?sourcedoc=/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Inclusion%20Look-fors%20August%2028,%202020%20FINAL.docx&action=default">Inclusion Look-For</a>`,
 	},
 ];
