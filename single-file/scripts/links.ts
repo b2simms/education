@@ -39,12 +39,6 @@ export const linksObj = [
 										 target="_blank">10-year Education Plan</a>`,
 	},
 	{
-		key: "LINK_12",
-		href: `<a href="http://www.nbta.ca/resources/documents/policy-598.3.pdf"
-										 target="_blank">A Resource Guide for Educators: Anti-Homophobia and
-											Anti-Heterosexism </a>`,
-	},
-	{
 		key: "LINK_16",
 		href: `<a href="http://unesdoc.unesco.org/images/0024/002482/248254e.pdf">United
 											Nations - a guide for ensuring inclusion and equity in education</a>`,
