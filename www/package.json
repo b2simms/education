@@ -12,6 +12,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "@polymer/polymer": "^3.3.0",
+    "@types/node": "^14.10.1",
     "@webcomponents/webcomponentsjs": "latest",
     "lit-element": "latest"
   },

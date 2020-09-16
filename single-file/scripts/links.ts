@@ -334,4 +334,14 @@ export const linksObj = [
 		href: `<a href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/Flexible%20Learning%20Draft%20Key%20Principles%20March%206%202020.docx?Web=1">
 		Flexible Learning Key Principles</a>`
 	},
+	{
+		key: "LINK_107",
+		href: `<a href="https://www2.gnb.ca/content/gnb/en/departments/education/k12/content/lgbtq.html">
+		New Brunswick LGBTQ Inclusive Education</a>`
+	},
+	{
+		key: "LINK_108",
+		href: `<a href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/School-based%20ESS%20Team%20Guidelines.pdf?Web=1">
+		School-based ESS Team Guidelines</a>`
+	}
 ];
