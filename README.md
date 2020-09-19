@@ -15,10 +15,8 @@ For `www`, see README.md
 
 ## Site Deployment
 
-1. `bash deploy.sh` which outputs the full site - portal, school-improvement-indicators, improvement-frameworks to `prod` directory
-2. Copy this directory to the `nbed.github.io` repo under the nbed account
-3. Commit and upload to `master` branch
-4. Test changes at nbed.github.io
+> build-deploy.sh
+> update-prod.sh
 
 ## Navigating the project
 

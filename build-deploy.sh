@@ -37,6 +37,10 @@ cd $dir1
 mv "${dir1}.html" index.html
 rm main-template.html # unneeded as it is a template
 rm -rf node_modules
+rm -rf scripts
+rm -f package.json
+rm -f package-lock.json
+rm -f tsconfig.json
 cd ..
 
 # improvement-frameworks
