@@ -141,7 +141,7 @@ export class TitlePage extends LitElement {
 				<br>
 				10-Year Education Implementation Planning Team
 				<br>
-				DRAFT as of June 20, 2019
+				Updated July 6th, 2021
 			</div>
 
 		</div>
