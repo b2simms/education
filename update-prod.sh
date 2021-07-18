@@ -15,4 +15,6 @@ cp -r ../education/prod/* .
 # update site
 git add .
 git commit -m "Updating production"
+# force ask of password
+git remote set-url origin https://nbed@github.com/nbed/nbed.github.io.git
 git push origin master
