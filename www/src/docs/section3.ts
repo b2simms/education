@@ -17,7 +17,7 @@ export const section3: Item[] = [
         id: "item2",
         name: "Data/Evidence",
         selected: false,
-        content: html`<p>Different schools&rsquo; teams have different levels of proficiency when gathering and analyzing data. If a school leader is new to a school or position, or there is a large change in the makeup of the improvement team, schools should re-examine their proficiency with data and evidence. In it&rsquo;s simplest, data is anything that is quantifiable. Evidence can be considered more subjective, for example, conversations and observations. Once evidence is quantified, it can often be considered data.</p>
+        content: html`<p>Different schools&rsquo; teams have different levels of proficiency when gathering and analyzing data. If a school leader is new to a school or position, or there is a large change in the makeup of the improvement team, schools should re-examine their proficiency with data and evidence. In it&rsquo;s simplest, data is anything that is quantifiable. Evidence is a broader concept and can include information that may be considered more subjective, for example, conversations and observations. Once evidence is quantified, it can often be considered hard data.</p>
         <p>Blink suggests the following guiding questions be used when a school chooses to examine data:</p>
         <ol>
         <li>How and when should data be gathered?</li>
@@ -42,8 +42,9 @@ export const section3: Item[] = [
         <li>This is a mechanism by which schools and districts will be able to measure progress.</li>
         <li>Most importantly the Annual School Performance Report will allow for the transfer of information from schools, to districts and then to the province. This information will be used to:
         <ul>
-        <li>set ongoing provincial priorities,</li>
-        <li>inform resource allocation, and inform PL planning.</li>
+        <li>set ongoing provincial priorities;</li>
+        <li>inform resource allocation; and,</li>
+        <li>inform PL planning.</li>
         </ul>
         </li>
         </ul>`,
