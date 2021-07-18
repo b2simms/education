@@ -25,31 +25,31 @@ export const section1: Item[] = [
                       <p>Composed of the Principal, Vice-Principal and a selection of key teacher leaders. Like all learning teams in the school, this team should be organized in a very structured manner. Team time should be regularly scheduled; norms should be established; agendas should be created; minutes should be kept and goals and follow-up actions should be developed and monitored. Since the key objective of the CLT is to help facilitate continuous improvement, change and growth, ensuring effective reciprocal communication, reporting to the entire staff, soliciting feedback, monitoring school-based teams and monitoring the Improvement Plan on a routine basis are critical responsibilities of this team. (p. 22).</p>
                       <p>It is noted that a fundamental purpose of the CLT is to help facilitate continuous improvement and monitor the improvement plan on a regular basis. If a school has a number of initiatives and feels the CLT is better served focusing solely on advancing leadership capacity and informing decisions which have school-wide implications, they may choose to have a separate, dedicated, School Improvement Planning (SIP) Team.&nbsp;</p>
                       </li>
-                      <li>If a school determines that there should be a dedicated School Improvement Planning Team, separate from the Core Leadership Team, this team should be focused solely on the goals and strategies outlined in the improvement plan. The SIP team would be dedicated to ensuring the consistent implementation of initiatives designed to support the goals established in the improvement plan, monitoring progress, identifying necessary resources and professional learning needs associated with the plan, communicating with stakeholders, and providing an Annual School Performance Report on progress each January. Please see pg. 28 for further information on the Annual School Performance Report.
+                      <li>If a school determines that there should be a dedicated School Improvement Planning (SIP) Team, separate from the Core Leadership Team, this team should be focused solely on the goals and strategies outlined in the improvement plan. The SIP team would be dedicated to ensuring the consistent implementation of initiatives designed to support the goals established in the improvement plan, monitoring progress, identifying necessary resources and professional learning needs associated with the plan, communicating with stakeholders, and providing an Annual School Performance Report on progress each January. Please see pg. 28 for further information on the Annual School Performance Report.
                       <p>It is important to note that the SIP Team could include membership from the CLT and representation from other groups as appropriate.</p>
                       </li>
                       <li>
-                      <p>Combined Educational Support Services Team (ESST) and Improvement Planning Team: It may be beneficial to combine the Education Support Services Team (ESST) and the Leadership Team/Improvement Planning Team, if it is identified that many of the goals are overlapping. This decision should be made in the best interest of the school community in consultation with district personnel.</p>
+                      <p>Combined Educational Support Services Team (ESST) and Improvement Planning Team: It may be beneficial to combine the Education Support Services Team (ESST) and the Leadership Team/Improvement Planning Team, if it is identified that many of the goals are overlapping. This decision should be made in the best interest of the school community in consultation with district personnel (e.g. the relevant Director of Schools).</p>
                       </li>
-                      <li>Recognizing that each school is different, the decision to adopt a combined SIP/PLWEP team is entirely the choice of the school in consultation with the district. Recognizing this, when a school chooses to combine the SIP and PLWEP plans, there are key variables to consider:
+                      <li>Recognizing that each school is different, the decision to adopt a combined SIP/PLWEP team is entirely the choice of the school in consultation with the district. Recognizing this, when a school chooses to combine the SIP and PLWEP plans, there are key variables to consider.
                       <ul>
                       <li>The plan must align with policy requirements including ensuring adherence to the language established within the <em>Education Act</em> as well as policies 322 and 703 (see <a target="_blank" href="./manifest/Appendix-B.pdf">Appendix B</a> for an elaboration).</li>
                       <li>All combined plans will have a dedicated PLWEP component which is identified specifically by that PLWEP designation.</li>
                       <li>The dedicated PLWEP component of the plan must be able to stand alone in a fully comprehensible manner if removed from the remainder of the combined document.</li>
                       <li>The PLWEP component must be removable in order to comply with Policy 703 and allow for timely replies to Right to Information and Protection of Privacy Act (RTIPPA) requests.</li>
-                      <li>In a tiered plan, the PLWEP component should be the first (highest priority) component in the plan if the evidence supports it.</li>
+                      <li>In a tiered plan, the PLWEP component should be the first (highest priority) component in the plan if the data and evidence supports it.</li>
                       </ul>
-                      <p>Please note: a wholly combined improvement planning document with no delineation between SIP and PLWEP contravenes the language outlined in Policy 322 and Policy 703.</p>
+                      <p><em>Please note: a wholly combined improvement planning document with no delineation between SIP and PLWEP contravenes the language outlined in Policy 322 and Policy 703.</em></p>
                       <p>This combined approach can be used to strike a balance between administrative efficiency (combining the documents) and adherence to existing policy while also maintaining a necessary priority on PLWEP planning.&nbsp;</p>
                       </li>
                       <li>Whole School Team &ndash; in a situation where there is the equivalent of eight or fewer full-time teaching staff, schools may choose to adopt a whole school approach to improvement planning teaming. They may also choose to combine other teams which may be focused on similar content, if deemed appropriate.</li>
                       </ol>
-                      <p>Schools may choose an atypical configuration if their needs are deemed distinct. Regardless of the preferred structure, the improvement team should be focused on continuous improvement and advancing student outcomes.</p>
+                      <p>Schools may choose an atypical configuration if their needs are deemed distinct. Regardless of the preferred structure, the improvement team should be focused on continuous improvement and advancing (academic, behavioural and social-emotional) student outcomes.</p>
                       <p>The following process suggests ways to determine the team configuration and membership:</p>
                       <ol>
                       <li><strong>School size and configuration</strong> &ndash; the size of the team is often dependent on the size and configuration of the school. A small school with a K-5 student population has different needs than a large 6-12 school; consequently, schools need to assess their own distinct needs when determining the size and makeup of the team. In general, those developing an improvement team should consider the following criteria:
                       <ul>
-                      <li>Eight to ten members total is suggested, with a recommended minimum of five (depending on school size).</li>
+                      <li>Seven to nine members total is suggested, with a recommended minimum of five (depending on school size).</li>
                       <li>Administrative representation.</li>
                       <li>Teacher representation considering grades, levels and overall configuration.</li>
                       <li>Support-staff representation.</li>
@@ -57,15 +57,15 @@ export const section1: Item[] = [
                       <li>A mix of early-career and more experienced teachers.</li>
                       <li>Identification of mechanisms to ensure access to student and parent voice. This could include direct participation on the committee or establishing avenues for formal (student and/or parent) communication with committee representatives to share ideas and/or concerns.</li>
                       </ul>
-                      <p>Note: Student feedback could include ongoing consultation depending on the age and maturity of the student population. In the absence of direct attendance at committee meetings, schools could decide to use any of the following feedback mechanisms: through class and/or Student Representative Council (SRC) representatives, assemblies, Principal forums, focus groups, surveys, or any other viable means deemed appropriate and effective by the improvement team.</p>
+                      <p><em>Note: Student feedback could include ongoing consultation depending on the age and maturity of the student population. In the absence of direct attendance at committee meetings, schools could decide to use any of the following feedback mechanisms: through class and/or Student Representative Council (SRC) representatives, assemblies, Principal forums, focus groups, surveys, or any other viable means deemed appropriate and effective by the improvement team.</em></p>
                       </li>
                       <li>
-                      <p>The <strong>guidelines for improvement team members</strong> should include the length of appointment, and an elaboration of the roles and responsibilities associated with membership. For example, the consultative nature of the parent role should be delineated. Meeting norms should be established. Robert&rsquo;s Rules of Order could be applied for this purpose. Norms should include the appointment of a chair and secretary as well as the <strong>generation of agendas and minutes for each meeting</strong>. Schools may also wish to identify individuals with specific expertise to lead and/or support specific initiatives, i.e., Literacy, Math, Data or Resource Support.<br />See: %LINK_5% for a quick reference to Robert&rsquo;s.</p>
+                      <p>The <strong>guidelines for improvement team members</strong> should include the length of appointment, and an elaboration of the roles and responsibilities associated with membership. For example, the consultative nature of the parent role should be delineated. Meeting norms should be established. Robert&rsquo;s Rules of Order could be applied for this purpose. Norms should include the appointment of a chair and secretary as well as the <strong>generation of agendas and minutes for each meeting</strong>. Schools may also wish to identify individuals with specific expertise to lead and/or support specific initiatives, i.e., Literacy, Math, Data or Resource Support.<br />See: %LINK_5% for a quick reference to Robert&rsquo;s Rules.</p>
                       </li>
                       <li><strong>Training for improvement team members</strong> - In order for staff, students, families and other stakeholders to understand the process of school improvement, school leaders, with district support where needed, should provide an information session which includes:
                       <ul>
-                      <li>An overview of the process.</li>
-                      <li>Roles and responsibilities of individual members.</li>
+                      <li>an overview of the process; and,</li>
+                      <li>delineation of roles and responsibilities for individual members.</li>
                       </ul>
                       <p>A PowerPoint with notes to support the dialogue will be developed by each district leadership team with all districts represented. School leaders can use this as a guide when administering training sessions.&nbsp;</p>
                       </li>
@@ -89,17 +89,17 @@ export const section1: Item[] = [
                       <li>Other areas as determined in collaboration with schools.</li>
                       </ul>
                       <p>Lack of progress may become apparent through the analysis of the Annual School Performance Report or other factors (assessment results, Our School data, Teacher Perception Survey Data or other evidence).</p>
-                      <p>As noted, each district is required to establish and communicate a process to support improvement planning in schools. As part of this process, an individual or individuals will be identified to act as <strong>school liaison</strong> to provide resources, process knowledge, and/or support. It has been recommended that the Director of Schools, Director of Curriculum and Instruction, Director of Education Support Services, or the Data and Accountability Supervisor be involved, depending on district and school needs. In collaboration with the principal/school team, district personnel could:&nbsp;</p>
+                      <p>As noted, each district is required to establish and communicate a process to support improvement planning in schools. As part of this process, an individual or individuals will be identified to act as <strong>school liaison</strong> to provide links to resources, process knowledge, and/or support (e.g. act as, or refer to school personnel to, a <strong>critical friend</strong>). It has been recommended that the Director of Schools, Director of Curriculum and Instruction, Director of Education Support Services, or the Data and Accountability Supervisor be involved, depending on district preference and school needs. In collaboration with the principal/school team, district personnel could:&nbsp;</p>
                       <ul>
-                      <li>Help schools develop and clarify their vision, mission and value statements, where the latter exist.</li>
-                      <li>Assist with the school improvement planning process, the establishment of effective goal setting and development of associated strategies.</li>
-                      <li>Facilitate and support ongoing PL.</li>
-                      <li>Advance shared leadership and participative decision-making.</li>
-                      <li>Help schools to establish and maintain effective teaming and communication structures.</li>
-                      <li>Assist schools to build capacity with the gathering, analysis, and use of data/evidence.</li>
-                      <li>Identify links to supports and funding opportunities.</li>
-                      <li>Assist schools to identify partnerships to help facilitate ongoing school improvement and the advancement of student outcomes.</li>
-                      <li>Act as a School Liaison and/or Critical Friend (this will be elaborated upon later in this document in the section, Roles and Responsibilities).</li>
+                      <li>help schools develop and clarify their vision, mission and value statements, where the latter exist;</li>
+                      <li>assist with the school improvement planning process, the establishment of effective goal setting and development of associated strategies;</li>
+                      <li>facilitate and support ongoing PL;</li>
+                      <li>advance shared leadership and participative decision-making;</li>
+                      <li>help schools to establish and maintain effective teaming and communication structures;</li>
+                      <li>assist schools to build capacity with the gathering, analysis, and use of data/evidence;</li>
+                      <li>identify links to supports and funding opportunities;</li>
+                      <li>assist schools to identify partnerships to help facilitate ongoing school improvement and the advancement of student outcomes; and</li>
+                      <li>act as a School Liaison and/or Critical Friend (this will be elaborated upon later in this document in the section, Roles and Responsibilities).</li>
                       </ul>`,
     },
     {
