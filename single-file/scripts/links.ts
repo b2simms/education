@@ -343,5 +343,10 @@ export const linksObj = [
 		key: "LINK_108",
 		href: `<a href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/School-based%20ESS%20Team%20Guidelines.pdf?Web=1">
 		School-based ESS Team Guidelines</a>`
+	},
+	{
+		key: "LINK_109",
+		href: `<a href="https://nbed.sharepoint.com/:w:/r/sites/NBSchoolImprovementPlanning/Shared%20Documents/Self-assessment%20documents/SIP%20Self-Assessment%20Process%20Infographic.docx?d=w1361951e7c34491ab246a0186a5232a9&amp;csf=1&amp;web=1&amp;e=NokcOE">
+		infographic</a>`
 	}
 ];
