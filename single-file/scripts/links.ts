@@ -348,5 +348,9 @@ export const linksObj = [
 		key: "LINK_109",
 		href: `<a href="https://nbed.sharepoint.com/:w:/r/sites/NBSchoolImprovementPlanning/Shared%20Documents/Self-assessment%20documents/SIP%20Self-Assessment%20Process%20Infographic.docx?d=w1361951e7c34491ab246a0186a5232a9&amp;csf=1&amp;web=1&amp;e=NokcOE">
 		infographic</a>`
+	},
+	{
+		key: "LINK_110",
+		href: `<a href="https://alphastar.academy/">Alpha Stars</a>`
 	}
 ];
