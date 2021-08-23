@@ -55,7 +55,7 @@ export const linksObj = [
 	},
 	{
 		key: "LINK_19",
-		href: `<a href="http://www2.gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/policies-politiques/e/322A.pdf"
+		href: `<a href="https://www2.gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/policies-politiques/e/322A.pdf"
 										 target="_blank">Policy 322 – Inclusive Education</a>`,
 	},
 	{
@@ -368,5 +368,9 @@ export const linksObj = [
 	{
 		key: "LINK_114",
 		href: `<a target="_blank" href="https://collabe.nbed.nb.ca/sites/ccic/hscp/SitePages/Opportunities%20for%20Credit.aspx" >Options for Credit Page</a>`
+	},
+	{
+		key: "LINK_115",
+		href: `<a target="_blank" href="https://flora.nbed.nb.ca/" >FLORA</a>`
 	},
 ];
