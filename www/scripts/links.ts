@@ -38,7 +38,7 @@ export const linksObj = [
 	},
 	{
 		key: "LINK_10",
-		href: `<a target="_blank" href="https://nbed.sharepoint.com/:w:/r/sites/NBSchoolImprovementPlanning/Shared%20Documents/PL%20and%20support%20documents/Annual%20School%20Performance%20Report%20Template%20Final.docx"><strong>Appendix F</strong>: Annual School Performance Report Template</a>`,
+		href: `<a target="_blank" href="https://nbed.sharepoint.com/:w:/r/sites/NBSchoolImprovementPlanning/Shared%20Documents/PL%20and%20support%20documents/Annual%20School%20Performance%20Report%20Template%20Final.docx?d=w0b622891ca264daa993c41738c35b796&csf=1&web=1&e=mPyl4h"><strong>Appendix F</strong>: Annual School Performance Report Template</a>`,
 	},
 	{
 		key: "LINK_11",
