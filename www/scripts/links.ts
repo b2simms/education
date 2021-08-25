@@ -38,7 +38,7 @@ export const linksObj = [
 	},
 	{
 		key: "LINK_10",
-		href: `<a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/Annual%20School%20Performance%20Report%20FINAL.docx?Web=1">Appendix F</a>`,
+		href: `<a target="_blank" href="https://nbed.sharepoint.com/:w:/r/sites/NBSchoolImprovementPlanning/Shared%20Documents/PL%20and%20support%20documents/Annual%20School%20Performance%20Report%20Template%20Final.docx">Appendix F</a>`,
 	},
 	{
 		key: "LINK_11",
@@ -55,14 +55,6 @@ export const linksObj = [
 	{
 		key: "LINK_14",
 		href: `<a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/_layouts/15/WopiFrame.aspx?sourcedoc=/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Inclusion%20Look-fors%20August%2028,%202020%20FINAL.docx&action=default">Inclusion Look-For</a>`,
-	},
-	{
-		key: "LINK_15",
-		href: `<a target="_blank" href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/Annual%20School%20Performance%20Report%20FINAL.docx?Web=1">Appendix F</a>`,
-	},
-	{
-		key: "LINK_16",
-		href: `<a href="https://collabe.nbed.nb.ca/sites/10year/nbsip/Shared%20Documents/2.%20Provincial%20Improvement%20Framework%20and%20Associated%20Documents/School%20Self-assessment%20Documents/Annual%20School%20Performance%20Report%20Template.docx?Web=1" target="_blank"><strong>Appendix F</strong>: Annual School Performance Report Template</a>`,
 	},
 	{
 		key: "LINK_17",

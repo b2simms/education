@@ -36,7 +36,7 @@ export const section3: Item[] = [
         selected: false,
         content: html`<p>Although it has already been mentioned several times throughout this document, the importance of the Annual School Performance Report must be highlighted.&nbsp;</p>
         <ul>
-        <li>The Annual School Performance Report is a high-level document that schools would submit to the district in January of each year (See %LINK_15%).</li>
+        <li>The Annual School Performance Report is a high-level document that schools would submit to the district in January of each year (See %LINK_10%).</li>
         <li>This report will identify overarching school goals and indicate progress toward these goals.</li>
         <li>District will collate this data and author a similar high-level report to be shared with provincial representatives.</li>
         <li>This is a mechanism by which schools and districts will be able to measure progress.</li>
